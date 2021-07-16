@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com a seguinte técnologias:
 git clone https://github.com/defauth98/recipes-app
 
 # Entre no diretório
-cd movie-cards-library-stateful
+cd recipes-app 
 
 # Instale as depedências
 npm install
