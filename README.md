@@ -1,31 +1,28 @@
 <h1 align="center">Recipes App</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/defauth8" target="_blank">
-  </a>
 </p>
 
 **Descrição**
 
-Aplicativo de receitas.
-
+Projeto realizado durante o curso de desenvolvimento na Trybe, realizado em grupo. Com o objetivo de usar as novas APIS aprendidas no ultimo bloco do modulo de frontend: Hooks e Context API. E consiste em um app de recetias onde é possível, visualizar, filtrar e até mesmo fazer receitas.
 
 ### :nut_and_bolt: Tecnologias
 
-Esse projeto foi desenvolvido com a seguinte técnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - [React][reactjs]
 
 [reactjs]: https://reactjs.org
 
-#### :thinking: Como rodar
+### :thinking: Como rodar
 
 ```bash
 # Clone o repositório
 git clone https://github.com/defauth98/recipes-app
 
 # Entre no diretório
-cd recipes-app 
+cd recipes-app
 
 # Instale as depedências
 npm install
@@ -34,10 +31,54 @@ npm install
 npm start
 ```
 
-#### Autor
+### :bust_in_silhouette: Autores
 
-👤 **Daniel Ribeiro**
-
-- Twitter: [@defauth8](https://twitter.com/defauth8)
-- Github: [@defauth8](https://github.com/defauth98)
-- LinkedIn: [@daniel-ribeiro-397604164](https://linkedin.com/in/daniel-ribeiro-397604164)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/defauth98">
+        <img src="https://avatars.githubusercontent.com/u/52966246?v=4" width="100px;" alt=""/>
+        <br />
+          <sub>
+            <b>Daniel Ribeiro</b>
+          </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/carlosgabrielcampo">
+        <img src="https://avatars.githubusercontent.com/u/28167638?v=4" width="100px;" alt=""/>
+        <br />
+          <sub>
+            <b>Carlos Gabriel</b>
+          </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Marcuscps19">
+        <img src="https://avatars.githubusercontent.com/u/48933426?v=4" width="100px;" alt=""/>
+        <br />
+          <sub>
+            <b>Marcus Cesar</b>
+          </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bruno-s-mendes">
+        <img src="https://avatars.githubusercontent.com/u/78617162?v=4" width="100px;" alt=""/>
+        <br />
+          <sub>
+            <b>Bruno Mendes</b>
+          </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Wwillers">
+        <img src="https://avatars.githubusercontent.com/u/49210525?v=4" width="100px;" alt=""/>
+        <br />
+          <sub>
+            <b>William Willers</b>
+          </sub>
+      </a>
+    </td>
+  </tr>
+</table>
