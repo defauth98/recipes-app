@@ -5,7 +5,7 @@
 
 **Descrição**
 
-Projeto realizado durante o curso de desenvolvimento na Trybe, realizado em grupo. Com o objetivo de usar as novas APIS aprendidas no ultimo bloco do modulo de frontend: Hooks e Context API. E consiste em um app de recetias onde é possível, visualizar, filtrar e até mesmo fazer receitas.
+Projeto realizado durante o curso de desenvolvimento de Software na Trybe, realizado em grupo. Com o objetivo de usar as novas APIS aprendidas no ultimo bloco do modulo de frontend: Hooks e Context API. E consiste em um app de receitas onde é possível visualizar, filtrar e até mesmo fazer receitas.
 
 ### :nut_and_bolt: Tecnologias
 
